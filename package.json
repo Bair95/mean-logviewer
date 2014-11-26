@@ -1,0 +1,22 @@
+{
+    "name": "ber-logviewer",
+    "preferGlobal": "false",
+    "version": "0.1.0",
+    "author": "Bertrand Richard",
+    "description": "",
+    "contributors": [],
+    "engines": {
+        "node": "~0.10.25",
+        "npm": "~1.3.2"
+    },
+    "keywords": [],
+    "dependencies": {
+        "optimist": "~0.3.5",
+        "express": "~4.0",
+        "underscore": "latest"
+    },
+    "devDependencies": {
+     
+    }
+
+}
